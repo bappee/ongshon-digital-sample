@@ -1,0 +1,25 @@
+.list{
+   display: flex;
+   list-style-type: none;
+   text-align: center;
+}
+.images{
+    width: 100px;
+    height: 100px;
+}
+.services{
+    text-align: center;
+    color: blue;
+}
+.flx{
+    display: flex;
+    
+}
+.blogs{
+    text-align: center;
+    color: crimson;
+    font-weight: 500;
+}
+.footer{
+    text-align: center;
+}
